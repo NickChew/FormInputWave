@@ -1,0 +1,4 @@
+The code iterates over all the form-control labels in the document and sets their innerHTML to be the label's text.
+It then iterates through each letter of that string, creating a span with a transition delay of 50ms for each letter.
+The span is joined together into one string which is set as the label's innerText.
+The code splits the text of each label and creates a span tag with an animation delay.

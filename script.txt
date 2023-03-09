@@ -1,0 +1,4 @@
+The code starts by finding all the form controls with a class of "form-control" and then iterates through each one.
+It finds the text inside of each label, splits it into an array, maps over that array to find out what letter is in there, and then creates a span tag with the transition delay set to 50ms for every letter.
+The code joins them together again.
+The code starts by finding all the form con
